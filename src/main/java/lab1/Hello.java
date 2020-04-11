@@ -7,7 +7,7 @@ public class Hello {
             if (i < args.length - 1)
                 s += args[i] + " ";
             else
-                s += args[i] + "!"
+                s += args[i] + "!";
         }
 
         System.out.println(s);
